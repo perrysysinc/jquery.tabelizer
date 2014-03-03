@@ -1,4 +1,4 @@
-table.controller{border-collapse: collapse;padding:0px;font-family:'Open Sans';font-size:14px;font: 14px/24px 'Roboto', sans-serif;}
+table.controller{/*fix spacing issue on some sites*/vertical-align: middle;border-collapse: collapse;padding:0px;font-family:'Open Sans';font-size:14px;font: 14px/24px 'Roboto', sans-serif;}
 table.controller .control{font:14px 'Open Sans';}
 table.controller td{padding:0px;border:0px solid red;}
 
